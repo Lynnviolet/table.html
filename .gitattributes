@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Webpage</title>
+    <link rel="stylesheet" href="style.css"> <!-- Linking external CSS -->
+</head>
+<body>
+    <header>
+        <h1 class="title">Welcome to my first styled webpage incorproted with an image</h1>
+    </header>
+
+    <section>
+        <p id="intro">This webpage is styled using an external CSS.</p>
+        <img src="image.jpg" alt="Sample Image" class="styled-image">
+    </section>
+
+    <footer>
+        <p>© 2025 My Website</p>
+    </footer>
+</body>
+</html>
